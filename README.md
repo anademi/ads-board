@@ -7,8 +7,8 @@
 ### Установка через Docker (рекомендуется)
 ```bash
 # Клонировать репозиторий
-git clone https://github.com/anademi/avito-tech-frontend-2025
-cd avito-tech-frontend-2025
+git clone https://github.com/anademi/ads-board
+cd ads-board
 
 # Запустить сервисы
 docker-compose up --build
